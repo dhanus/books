@@ -10,7 +10,9 @@
 
 <a href="https://www.amazon.com/Option-Adversity-Building-Resilience-Finding/dp/1524732680/ref=sr_1_1?s=books&ie=UTF8&qid=1508213712&sr=1-1&keywords=plan+b">Option B</a> by Sheryl Sandberg & Adam Grant
 
-<a href="https://www.amazon.com/Zingermans-Guide-Giving-Great-Service/dp/1401301436/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1508214048&sr=1-1-spell&dpID=510WZvVTkZL&preST=_SY344_BO1,204,203,200_QL70_&dpSrc=detail">Zingerman's guide to giving great service</a> by Iris Bohnet
+<a href="https://www.amazon.com/What-Works-Gender-Equality-Design/dp/0674089030/ref=sr_1_1?s=books&ie=UTF8&qid=1508214186&sr=1-1&keywords=what+works">What Works: Gender Equality by Design</a> by Iris Bohnet
+
+<a href="https://www.amazon.com/Zingermans-Guide-Giving-Great-Service/dp/1401301436/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1508214048&sr=1-1-spell&dpID=510WZvVTkZL&preST=_SY344_BO1,204,203,200_QL70_&dpSrc=detail">Zingerman's guide to giving great service</a> by Ari Weinzweig
 
 
 
