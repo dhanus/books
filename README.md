@@ -1,6 +1,8 @@
 # Books I've read in 2017 
 
-<a href="https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture-ebook/dp/B0166ISAS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1508213994&sr=1-1&keywords=hillbilly+elegy">Hillbilly Elegy: a memoir of a family & culture in crisis</a> J.D. Vance
+<a href="https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture-ebook/dp/B0166ISAS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1508213994&sr=1-1&keywords=hillbilly+elegy">Is everyone hanging out without me? </a> by Mindy Kaling
+
+<a href="https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture-ebook/dp/B0166ISAS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1508213994&sr=1-1&keywords=hillbilly+elegy">Hillbilly Elegy: a memoir of a family & culture in crisis</a> by J.D. Vance
 
 <a href="https://www.amazon.com/BALLS-Takes-Some-Get/dp/162634325X">Balls</a> by Chris Edwards 
 
