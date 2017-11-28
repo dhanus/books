@@ -19,6 +19,8 @@
 <a href="https://www.amazon.com/Achievement-Habit-Wishing-Start-Command/dp/0062356100">The Achievement Habit</a> by Bernard Roth
 
 
+<a href="https://www.amazon.com/What-Happened-Hillary-Rodham-Clinton/dp/1501175564">What Happened</a> by Hillary Rodham Clinton
+
 
 
 
