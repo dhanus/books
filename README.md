@@ -20,6 +20,6 @@
 
 <a href="https://www.amazon.com/What-Happened-Hillary-Rodham-Clinton/dp/1501175564">What Happened</a> by Hillary Rodham Clinton
 
-<a href="https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X">Reset: my fight for inclusion and lasting change</a> by Ellen Pao
+<a href="https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X">Reset: My Fight for Inclusion and Lasting Change</a> by Ellen Pao
 
 
