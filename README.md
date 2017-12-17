@@ -22,4 +22,6 @@
 
 <a href="https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X">Reset: My Fight for Inclusion and Lasting Change</a> by Ellen Pao
 
-<a href="https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/0062390856">Everybody Lies: Big data, New Data, and What the Internet Can Tell Us About Who We Really Are</a> by Seth Stephens-Davidowitz
+<a href="https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/0062390856">Everybody Lies</a> by Seth Stephens-Davidowitz
+
+<a href="https://www.amazon.com/Just-Mercy-Story-Justice-Redemption/dp/081298496X">Just Mercy</a> by Bryan Stevenson
