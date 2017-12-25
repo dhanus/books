@@ -25,3 +25,5 @@
 <a href="https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/0062390856">Everybody Lies</a> by Seth Stephens-Davidowitz
 
 <a href="https://www.amazon.com/Just-Mercy-Story-Justice-Redemption/dp/081298496X">Just Mercy</a> by Bryan Stevenson
+
+<a href="https://www.amazon.co.uk/Asshole-Rule-Civilised-Workplace-Surviving/dp/0749954035">The No Asshole Rule</a> by Robert Sutton
