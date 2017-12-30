@@ -27,3 +27,5 @@
 <a href="https://www.amazon.com/Just-Mercy-Story-Justice-Redemption/dp/081298496X">Just Mercy</a> by Bryan Stevenson
 
 <a href="https://www.amazon.co.uk/Asshole-Rule-Civilised-Workplace-Surviving/dp/0749954035">The No Asshole Rule</a> by Robert Sutton
+
+<a href="https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034">Nonviolent Communication</a> by Marshall Rosenberg
