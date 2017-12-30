@@ -29,3 +29,5 @@
 <a href="https://www.amazon.co.uk/Asshole-Rule-Civilised-Workplace-Surviving/dp/0749954035">The No Asshole Rule</a> by Robert Sutton
 
 <a href="https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034">Nonviolent Communication</a> by Marshall Rosenberg
+
+<a href="https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal-ebook/dp/B00CDUVSQ0">Hatching Twitter</a> by Nick Bilton
